@@ -45,7 +45,7 @@
 ## Скриншоты
 
 ### 1. **Интерфейс ассистента в Savvy**
-![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Savvy.png)
+![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Savvy.png?raw=true)
 *Настройка ИИ-ассистента в сервисе Savvy для работы в Telegram.*
 
 ---
