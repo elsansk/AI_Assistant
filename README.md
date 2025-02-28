@@ -44,32 +44,23 @@
 
 ## Скриншоты
 
-### 1. **Системный промпт в Qwen**
-![Скриншот](https://via.placeholder.com/600x400?text=System+Prompt+in+Qwen)
-*Пример системного промпта, созданного в Qwen для управления поведением ассистента.*
-
----
-
-### 2. **База знаний в Qwen**
-![Скриншот](https://via.placeholder.com/600x400?text=Knowledge+Base+in+Qwen)
-*Фрагмент базы знаний, содержащей ответы на часто задаваемые вопросы.*
-
----
-
-### 3. **Интерфейс ассистента в Savvy**
-![Скриншот](https://via.placeholder.com/600x400?text=Savvy+AI+Assistant+Interface)
+### 1. **Интерфейс ассистента в Savvy**
+![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Savvy.png)
 *Настройка ИИ-ассистента в сервисе Savvy для работы в Telegram.*
 
 ---
-
+### 2. **Интерфейс ассистента в Telegram**
+![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Bot1.png)
+* ИИ-ассистент в  Telegram.*
+---
 ### 4. **Запись на консультацию**
-![Скриншот](https://via.placeholder.com/600x400?text=Consultation+Scheduling)
+![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D0%B2%20%D0%B1%D0%BE%D1%82%D0%B5.png)
 *Пример диалога, где ассистент предлагает записаться на консультацию и создает встречу в Google Календаре.*
 
 ---
 
 ### 5. **Google Календарь**
-![Скриншот](https://via.placeholder.com/600x400?text=Google+Calendar+Integration)
+![Скриншот] (https://github.com/elsansk/AI_Assistant/blob/main/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.png)
 *Автоматически созданная встреча в Google Календаре после записи на консультацию.*
 
 ---
