@@ -50,7 +50,7 @@
 
 ---
 ### 2. **Интерфейс ассистента в Telegram**
-![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Bot1.png)
+![Скриншот](https://github.com/elsansk/AI_Assistant/blob/main/Bot1.png).
 * ИИ-ассистент в  Telegram.*
 ---
 ### 4. **Запись на консультацию**
